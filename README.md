@@ -1,4 +1,5 @@
-# 💫About Me :
+<div align="center"> <h1 align="center"> Hi 👋, I'm Sandaru </h1> </div>
+
 🌱 I’m currently learning React, Angular, Nestjs
 🎉 Let's connect on [LinkedIn](https://www.linkedin.com/in/sandaru-anjana-70498a19b/)
 
